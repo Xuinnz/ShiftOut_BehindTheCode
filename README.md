@@ -40,7 +40,8 @@ _Both options will give you the same files!_
 Open a terminal (Command Prompt, PowerShell, or Terminal app), navigate to the project folder, and run:
 
 ```bash
-npm install
+npm init -y
+npm install express
 ```
 
 This installs everything your project needs—most importantly, Express.
